@@ -1,1 +1,3 @@
 github giris 
+
+github a proje bağlamak için deneme dosyası
